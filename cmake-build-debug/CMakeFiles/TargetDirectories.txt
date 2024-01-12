@@ -1,0 +1,3 @@
+D:/CPPP/Cplusplus-Concurrency-In-Practice/cmake-build-debug/CMakeFiles/Mutex-header-synopsis.dir
+D:/CPPP/Cplusplus-Concurrency-In-Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPPP/Cplusplus-Concurrency-In-Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
